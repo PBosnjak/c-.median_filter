@@ -1,0 +1,18 @@
+D:\DRS\binarci\EDK\implementation\system.ngc 1481268534
+D:/DRS/binarci/EDK/implementation/system_dip_switches_8bits_wrapper.ngc 1481268384
+D:/DRS/binarci/EDK/implementation/system_push_buttons_4bits_wrapper.ngc 1481268415
+D:/DRS/binarci/EDK/implementation/system_rs232_uart_1_wrapper.ngc 1481268371
+D:/DRS/binarci/EDK/implementation/system_clock_generator_0_wrapper.ngc 1481268506
+D:/DRS/binarci/EDK/implementation/system_proc_sys_reset_0_wrapper.ngc 1481268484
+D:/DRS/binarci/EDK/implementation/system_microblaze_0_wrapper.ngc 1481268491
+D:/DRS/binarci/EDK/implementation/system_mb_plb_wrapper.ngc 1481268310
+D:/DRS/binarci/EDK/implementation/system_ilmb_wrapper.ngc 1481268496
+D:/DRS/binarci/EDK/implementation/system_dlmb_wrapper.ngc 1481268501
+D:/DRS/binarci/EDK/implementation/system_dlmb_cntlr_wrapper.ngc 1481268337
+D:/DRS/binarci/EDK/implementation/system_ilmb_cntlr_wrapper.ngc 1481268346
+D:/DRS/binarci/EDK/implementation/system_leds_8bits_wrapper.ngc 1481268400
+D:/DRS/binarci/EDK/implementation/system_micron_ram_wrapper.ngc 1481268443
+D:/DRS/binarci/EDK/implementation/system_mdm_0_wrapper.ngc 1481268472
+D:/DRS/binarci/EDK/implementation/system_lmb_bram_wrapper.ngc 1481268357
+D:/DRS/binarci/EDK/implementation/system_mem_bus_mux_0_wrapper.ngc 1481268452
+OK

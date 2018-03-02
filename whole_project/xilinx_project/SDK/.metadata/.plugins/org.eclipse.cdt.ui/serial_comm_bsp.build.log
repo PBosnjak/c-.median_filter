@@ -1,0 +1,6 @@
+12:49:54 **** Auto Build of project serial_comm_bsp ****
+make -k all 
+'Finished building libraries'
+
+12:50:06 Build Finished (took 11s.788ms)
+

@@ -1,0 +1,13 @@
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.bss=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.data=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.rodata=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.sbss=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.sbss2=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.sdata=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.sdata2=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:.text=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:Heap=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:Heap-size=1024
+com.xilinx.sdk.linkgen.prefs.serial_comm\:Stack=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.serial_comm\:Stack-size=1024
+eclipse.preferences.version=1
